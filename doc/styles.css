@@ -238,3 +238,10 @@ a:visited {
 .resume .resume_right .resume_hobby ul li:last-child:before {
     display: none;
 }
+#myDIV {
+    width: 100%;
+    padding: 50px 0;
+    text-align: center;
+    background-color: #0bb5f4;
+    margin-top: 20px;
+}
